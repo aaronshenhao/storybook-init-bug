@@ -1,4 +1,6 @@
 {
+  "name": "storybook-example",
+  "version": "1.0.0",
   "dependencies": {
     "storybook": "^8.4.4"
   }
